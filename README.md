@@ -3,7 +3,7 @@
 Presentation:
 https://public.tableau.com/app/profile/brian.wilhelm/viz/scooters_master/NashvilleScooters?publish=yes
 
-This project consisted of team members: B. H. Kim, Richard Leonard, and Brian Wilhelm.  The tableau dashboard above is the culmiculminating presentation from the project description listed below.  This project was created from the Data Analytics Bootcamp through the Nashville Software School. We really enjoyed the entire process of working with PostgreSQL, Python, and presenting our findings through Tableau.
+This project consisted of team members: B. H. Kim, Richard Leonard, and Brian Wilhelm.  The linked public tableau dashboard above is the presentation for the project which is described listed below.  This project was created during the Data Analytics Bootcamp through Nashville Software School. We really enjoyed the entire process of working with PostgreSQL, Python, and presenting our findings through Tableau.
 
 
 Project Description:
