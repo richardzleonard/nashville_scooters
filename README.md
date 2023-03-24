@@ -1,4 +1,13 @@
 ## Metro Scooters Analysis
+
+Presentation:
+https://public.tableau.com/app/profile/brian.wilhelm/viz/scooters_master/NashvilleScooters?publish=yes
+
+This project consisted of team members: B. H. Kim, Richard Leonard, and Brian Wilhelm.  The tableau dashboard above is the culmiculminating presentation from the project description listed below.  This project was created from the Data Analytics Bootcamp through the Nashville Software School. We really enjoyed the entire process of working with PostgreSQL, Python, and presenting our findings through Tableau.
+
+
+Project Description:
+
 In May of 2018, Bird dropped hundreds of scooters on the streets of Nashville with no permission. In response, Metro sued, which caused Bird to remove and wait for permits. Metro began developing regulations for scooters and other shared urban mobility devices (SUMDs). In 2019, the Metro Council passed legislation enacting a one-year pilot program for scooters. For this project, you have been provided with the data for 3 months of this pilot program with the goal of reporting on usage trends and generating recommendations for quantity and distribution of scooters in Nashville.
 
 Metro would like to know what the ideal density of available scooters is, which balances the objectives of
@@ -29,3 +38,5 @@ At the conclusion of this project, your group should deliver a presentation whic
 * What are typical usage patterns for scooters in terms of time, location, and trip duration?
 * Does it appear that scooters are used as "last mile" transportation from public transit hubs to work or school?
 * What are your recommendations for total number of scooters for the city overall and density of scooters by zip code?
+
+
